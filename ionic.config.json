@@ -1,0 +1,7 @@
+{
+  "name": "ionic-youtube-api",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
